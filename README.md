@@ -3,9 +3,9 @@ Feedbro Simplified Chinese language
 
 Feedbro RSS阅读器的简体中文语言文件
 
-可适用最新版：Feedbro 4.4.8 
+可适用最新版：Feedbro 4.5.1 2020-07-29 
 
-版本更新时间：2020-07-23
+语言文件更新时间：2020-07-23
 
 Feedbro下载: https://nodetics.com/feedbro
 
