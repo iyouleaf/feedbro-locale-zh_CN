@@ -1,10 +1,10 @@
 {
     "meta": {
-        "manifest_version": 4.9,
+        "manifest_version": 4.10,
         "locale_version": "1.5",
         "locale_name": "Simplified Chinese",
         "locale_type": "zh_CN",
-        "locale_last_updated": "2021-04-11 00:00:01 UTC",
+        "locale_last_updated": "2021-11-22 00:00:01 UTC",
         "locale_author_name": "小叶子",
         "locale_author_email": "iyouleaf@gmail.com",
         "locale_source_url": "https://raw.githubusercontent.com/iyouleaf/feedbro-locale-zh_CN/master/feedbro-locale-zh_CN.json"
@@ -414,6 +414,10 @@
     "ruleform_action_ifttt_title": "输入自定义IFTTT Maker Channel HTTP POST URL的完整URL作为参数.",
     "ruleform_action_points_body": "添加节点",
     "ruleform_action_points_title": "从匹配的订阅源项中添加或减去节点.使用“按节点排序”排序时将考虑总节点数.",
+    "ruleform_action_discord_body": "Discord HTTP POST URL",
+    "ruleform_action_discord_title": "发送文章标题并链接到Discord频道",
+    "ruleform_action_slack_body": "Slack HTTP POST URL",
+    "ruleform_action_slack_title": "发送文章标题并链接到Slack频道",    
     "ruleform_action_add_body": "添加操作",
     "ruleform_delete_body": "删除",
     "ruleform_delete_title": "永久删除规则",
