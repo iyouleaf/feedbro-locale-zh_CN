@@ -1,10 +1,10 @@
 {
     "meta": {
-        "manifest_version": 4.10,
+        "manifest_version": 4.12,
         "locale_version": "1.5",
         "locale_name": "Simplified Chinese",
         "locale_type": "zh_CN",
-        "locale_last_updated": "2021-11-22 00:00:01 UTC",
+        "locale_last_updated": "2022-09-22 00:00:01 UTC",
         "locale_author_name": "小叶子",
         "locale_author_email": "iyouleaf@gmail.com",
         "locale_source_url": "https://raw.githubusercontent.com/iyouleaf/feedbro-locale-zh_CN/master/feedbro-locale-zh_CN.json"
